@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+-🔭 I’m currently working on building my Web Apps Development knowledge
+-🌱 I’m currently learning Machine Learning
+
 <!--
 **olivernjiru/olivernjiru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
