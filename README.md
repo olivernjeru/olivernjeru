@@ -1,7 +1,6 @@
 ### Hi there 👋
 
--🌱 I’m currently teaching myself Python as my main programming language
--⚡ Fun fact: I do photography for fun and I swim!
+-🌱 Self learning Software Engineering. Sharing my art through photography on <a href="https://unsplash.com/@olivernjiru">Unsplash.</a>
 
 <!--
 **olivernjiru/olivernjiru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
