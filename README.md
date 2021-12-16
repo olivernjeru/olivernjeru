@@ -1,6 +1,17 @@
 ### Hi there 👋
+My name is Oliver and I'm an applied computer tech student from Kenya. Here's some info about me!
 
--🌱 Self learning Software Engineering. Sharing my art through photography on <a href="https://unsplash.com/@olivernjiru">Unsplash.</a>
+-🌱 Self learning Software Engineering.
+
+🔭 Current project:
+
+E-Commerce Merch website & Personal Website.
+
+🌱 Interests:
+
+Web development.
+Photo Contributor (<a href="https://unsplash.com/@olivernjiru">Unsplash</a>).
+💬 Reach me by email or LinkedIn! olivernjiru@gmail.com | www.linkedin.com/in/olivernjiru
 
 <!--
 **olivernjiru/olivernjiru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
