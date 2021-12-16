@@ -5,7 +5,7 @@ My name is Oliver and I'm an applied computer tech student from Kenya. Here's so
 
 🔭 Current project:
 
-E-Commerce Merch website & Personal Website.
+E-Commerce Merch website & Portfolio Website.
 
 🌱 Interests:
 
