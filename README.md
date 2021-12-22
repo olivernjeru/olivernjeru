@@ -9,9 +9,14 @@ E-Commerce Merch website & Portfolio Website.
 
 🌱 Interests:
 
-Web development.
-Photo Contributor (<a href="https://unsplash.com/@olivernjiru">Unsplash</a>).
+<ul>
+  <li>Web development.</li>
+  <li>Photo Contributor (<a href="https://unsplash.com/@olivernjiru">Unsplash</a>).</li>
+ </ul>
+
 💬 Reach me by email or LinkedIn! olivernjiru@gmail.com | www.linkedin.com/in/olivernjiru
+
+📫 Visit my website: https://olivernjiru.github.io
 
 <!--
 **olivernjiru/olivernjiru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
