@@ -6,8 +6,8 @@ My name is Oliver and I'm an applied computer tech student from Kenya. Here's so
 🔭 Current projects:
 
 <ul>
+  <li><a href="https://olivernjiru.github.io">Portfolio Website</a></li>
   <li>E-Commerce Merch Website</li>
-  <li>Portfolio Website</li>
 </ul>
 
 🌱 Interests:
