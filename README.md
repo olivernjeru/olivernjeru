@@ -3,20 +3,24 @@ My name is Oliver and I'm an applied computer tech student from Kenya. Here's so
 
 -🌱 Self learning Software Engineering.
 
-🔭 Current project:
+🔭 Current projects:
 
-E-Commerce Merch website & Portfolio Website.
+<ul>
+  <li>E-Commerce Merch Website</li>
+  <li>Portfolio Website</li>
+</ul>
 
 🌱 Interests:
 
 <ul>
-  <li>Web development.</li>
-  <li>Photo Contributor (<a href="https://unsplash.com/@olivernjiru">Unsplash</a>).</li>
+  <li>Web development</li>
+  <li>Photo Contributor (<a href="https://unsplash.com/@olivernjiru">Unsplash</a>)</li>
+  <li>Building Stuff</li>
  </ul>
 
-💬 Reach me by email or LinkedIn! olivernjiru@gmail.com | www.linkedin.com/in/olivernjiru
+💬 Reach me by Email or LinkedIn! olivernjiru@gmail.com | www.linkedin.com/in/olivernjiru
 
-📫 Visit my website: https://olivernjiru.github.io
+📫 Visit my Portfolio Website: https://olivernjiru.github.io
 
 <!--
 **olivernjiru/olivernjiru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
