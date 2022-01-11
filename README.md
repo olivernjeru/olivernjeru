@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Oliver and I'm an applied computer tech student from Kenya. Here's some info about me!
+My name is Oliver and I'm an applied computer tech student at United States International University - Africa. Here's some info about me!
 
 -🌱 Self learning Software Engineering.
 
