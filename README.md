@@ -18,7 +18,9 @@ My name is Oliver and I'm an applied computer tech student at United States Inte
   <li>Building Stuff</li>
  </ul>
  
- [![Oliver's GitHub stats](https://github-readme-stats.vercel.app/api?username=olivernjiru&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olivernjiru&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olivernjiru&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+ 
+ [![Oliver's GitHub stats](https://github-readme-stats.vercel.app/api?username=olivernjiru&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  
 
 
 💬 Reach me by Email or LinkedIn! olivernjiru@gmail.com | www.linkedin.com/in/olivernjiru
