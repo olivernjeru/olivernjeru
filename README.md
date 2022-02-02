@@ -15,7 +15,7 @@ My name is Oliver and I'm an applied computer tech student at United States Inte
 <ul>
   <li>Web development</li>
   <li>Photo Contributor (<a href="https://unsplash.com/@olivernjiru">Unsplash</a>)</li>
-  <li>Building Stuff</li>
+  <li>Building Stuff with tech</li>
  </ul>
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olivernjiru&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
