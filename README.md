@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 My name is Oliver and I'm an applied computer tech student at United States International University - Africa. Here's some info about me!
 
 -🌱 Self learning Software Engineering.
@@ -23,7 +23,8 @@ My name is Oliver and I'm an applied computer tech student at United States Inte
  [![Oliver's GitHub stats](https://github-readme-stats.vercel.app/api?username=olivernjiru&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  
 
 
-💬 Reach me by Email or LinkedIn! olivernjiru@gmail.com | www.linkedin.com/in/olivernjiru
+💬 [![Gmail Badge](https://img.shields.io/badge/-olivernjiru@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:olivernjiru@gmail.com)](mailto:olivernjiru@gmail.com)
+   [![Linkedin Badge](https://img.shields.io/badge/-olivernjiru-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/olivernjiru/)](https://www.linkedin.com/in/olivernjiru/)
 
 📫 Visit my Portfolio Website: https://olivernjiru.github.io
 
