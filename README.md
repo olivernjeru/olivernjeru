@@ -28,6 +28,8 @@ My name is Oliver and I'm an applied computer tech student at United States Inte
 
 📫 Visit my Portfolio Website: https://olivernjiru.github.io
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=olivernjiru)
+
 <!--
 **olivernjiru/olivernjiru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
