@@ -32,6 +32,7 @@ My name is Oliver and I'm an applied computer tech student at United States Inte
 | IDE|<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/> <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white"/>|
 | Design|<img src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/> <img src="https://img.shields.io/badge/adobe%20illustrator%20-%23FF9A00.svg?&style=for-the-badge&logo=adobe%20illustrator&logoColor=white"/> <img src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/>|
  
+ # 📈 Github Stats
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olivernjiru&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
  
  [![Oliver's GitHub stats](https://github-readme-stats.vercel.app/api?username=olivernjiru&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
