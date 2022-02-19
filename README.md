@@ -33,9 +33,10 @@ My name is Oliver and I'm an applied computer tech student at United States Inte
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olivernjiru&langs_count=3&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
   
- <!-- <a href="https://github.com/olivernjiru">
+  <!-- Wakatime Stats -->
+ <a href="https://github.com/olivernjiru">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=olivernjiru&theme=radical&v=2" />
-</a><br/><br/> -->
+</a><br/><br/>
 
 💬 [![Gmail Badge](https://img.shields.io/badge/-olivernjiru@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:olivernjiru@gmail.com)](mailto:olivernjiru@gmail.com)
    [![Linkedin Badge](https://img.shields.io/badge/-olivernjiru-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/olivernjiru/)](https://www.linkedin.com/in/olivernjiru/)
