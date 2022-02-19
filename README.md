@@ -32,9 +32,9 @@ My name is Oliver and I'm an applied computer tech student at United States Inte
 [![Oliver's GitHub stats](https://github-readme-stats.vercel.app/api?username=olivernjiru&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) 
 
 <!-- Wakatime Stats -->
-<a href="https://github.com/olivernjiru">
+<!-- <a href="https://github.com/olivernjiru"> -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=olivernjiru&theme=radical&v=2" />
-</a><br/><br/>
+<!-- </a><br/><br/> -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olivernjiru&langs_count=3&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
