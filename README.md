@@ -43,7 +43,7 @@ My name is Oliver and I'm an applied computer tech student at United States Inte
 
 📫 Visit my Portfolio Website: https://olivernjiru.github.io
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=olivernjiru)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=olivernjiru)  [![wakatime](https://wakatime.com/badge/user/646be635-77c4-4954-8b75-1fb37118822a.svg)](https://wakatime.com/@646be635-77c4-4954-8b75-1fb37118822a)  [![twitter](https://img.shields.io/twitter/follow/olivernjeru?label=followers&logo=twitter&color=%23007ec6&style=plastic)](https://twitter.com/olivernjeru)  [![github](https://img.shields.io/github/followers/olivernjiru?logo=github&style=plastic)](https://github.com/olivernjiru?tab=followers)
 
 <!--
 **olivernjiru/olivernjiru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
