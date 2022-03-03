@@ -31,6 +31,8 @@ My name is Oliver and I'm an applied computer tech student at United States Inte
  # 📈 Github Stats
 [![Oliver's GitHub stats](https://github-readme-stats.vercel.app/api?username=olivernjiru&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) 
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=olivernjiru"></img>
+
 <!-- Wakatime Stats -->
 <!-- <a href="https://github.com/olivernjiru"> -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=olivernjiru&theme=radical&v=2" />
