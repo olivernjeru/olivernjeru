@@ -28,8 +28,12 @@ My name is Oliver and I'm an applied computer tech student at United States Inte
 | IDE|<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>|
 <!-- | Design|<img src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/> <img src="https://img.shields.io/badge/adobe%20illustrator%20-%23FF9A00.svg?&style=for-the-badge&logo=adobe%20illustrator&logoColor=white"/> <img src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/>| -->
  
+ <!--   GitHub stats graph -->
+### 📈 GitHub Activity Graph:
+![Asmit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=olivernjiru&hide_border=true&theme=redical)
+
  # 📈 Github Stats
-[![Oliver's GitHub stats](https://github-readme-stats.vercel.app/api?username=olivernjiru&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) 
+![Oliver's GitHub stats](https://github-readme-stats.vercel.app/api?username=olivernjiru&theme=radical&show_icons=true)
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=olivernjiru"></img>
 
@@ -38,7 +42,7 @@ My name is Oliver and I'm an applied computer tech student at United States Inte
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=olivernjiru&theme=radical&v=2" />
 <!-- </a><br/><br/> -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olivernjiru&langs_count=3&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+![Oliver's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=olivernjiru&theme=radical&layout=compact)
 
 💬 [![Gmail Badge](https://img.shields.io/badge/-olivernjiru@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:olivernjiru@gmail.com)](mailto:olivernjiru@gmail.com)
    [![Linkedin Badge](https://img.shields.io/badge/-olivernjiru-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/olivernjiru/)](https://www.linkedin.com/in/olivernjiru/)
@@ -46,7 +50,7 @@ My name is Oliver and I'm an applied computer tech student at United States Inte
 
 📫 Visit my Portfolio Website: https://olivernjiru.github.io
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=olivernjiru)  [![wakatime](https://wakatime.com/badge/user/646be635-77c4-4954-8b75-1fb37118822a.svg)](https://wakatime.com/@646be635-77c4-4954-8b75-1fb37118822a)  
+![visitors](https://visitor-badge.glitch.me/badge?page_id=olivernjiru)  [![wakatime](https://wakatime.com/badge/user/646be635-77c4-4954-8b75-1fb37118822a.svg)](https://wakatime.com/@646be635-77c4-4954-8b75-1fb37118822a)    ![Profile views](https://gpvc.arturio.dev/olivernjiru)
 
 <!--
 **olivernjiru/olivernjiru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
