@@ -5,13 +5,13 @@ My name is Oliver and I'm an applied computer tech student at United States Inte
 <!-- Info about me -->
 -🌱 Self learning Software Engineering.
 
-🔭 Current projects:
+<!-- 🔭 Current projects:
 <ul>
   <li><a href="https://olivernjiru.github.io">Portfolio Website</a></li>
   <li>E-Commerce Merch Website</li>
-</ul>
+</ul> -->
 
-🌱 Interests:
+🔭- Interests:
 <ul>
   <li>Web development</li>
   <li>Photo Contributor (<a href="https://unsplash.com/@olivernjiru">Unsplash</a>)</li>
