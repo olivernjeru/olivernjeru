@@ -50,7 +50,8 @@ My name is Oliver and I'm an applied computer tech student at United States Inte
 
 📫 Visit my Portfolio Website: https://olivernjiru.github.io
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=olivernjiru)  [![wakatime](https://wakatime.com/badge/user/646be635-77c4-4954-8b75-1fb37118822a.svg)](https://wakatime.com/@646be635-77c4-4954-8b75-1fb37118822a)    ![Profile views](https://gpvc.arturio.dev/olivernjiru)   <img src="https://img.shields.io/github/forks/olivernjiru/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator forks"/>    <img src="https://img.shields.io/github/stars/olivernjiru/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator stars"/>    <img src="https://img.shields.io/github/issues/olivernjiru/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator issues"/>
+![visitors](https://visitor-badge.glitch.me/badge?page_id=olivernjiru)  [![wakatime](https://wakatime.com/badge/user/646be635-77c4-4954-8b75-1fb37118822a.svg)](https://wakatime.com/@646be635-77c4-4954-8b75-1fb37118822a)    ![Profile views](https://gpvc.arturio.dev/olivernjiru)   <img src="https://img.shields.io/github/forks/olivernjiru/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator forks"/>    <img src="https://img.shields.io/github/stars/olivernjiru/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator stars"/>    <img src="https://img.shields.io/github/issues/olivernjiru/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator issues"/>    <img src="https://img.shields.io/github/issues-pr/olivernjiru/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator pull-requests"/>
+
 
 
 
