@@ -50,7 +50,9 @@ My name is Oliver and I'm an applied computer tech student at United States Inte
 
 📫 Visit my Portfolio Website: https://olivernjiru.github.io
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=olivernjiru)  [![wakatime](https://wakatime.com/badge/user/646be635-77c4-4954-8b75-1fb37118822a.svg)](https://wakatime.com/@646be635-77c4-4954-8b75-1fb37118822a)    ![Profile views](https://gpvc.arturio.dev/olivernjiru)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=olivernjiru)  [![wakatime](https://wakatime.com/badge/user/646be635-77c4-4954-8b75-1fb37118822a.svg)](https://wakatime.com/@646be635-77c4-4954-8b75-1fb37118822a)    ![Profile views](https://gpvc.arturio.dev/olivernjiru)   <img src="https://img.shields.io/github/forks/olivernjiru/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator forks"/>    <img src="https://img.shields.io/github/stars/rahuldkjain/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator stars"/>
+
+
 
 <!--
 **olivernjiru/olivernjiru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
