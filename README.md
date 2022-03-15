@@ -13,8 +13,8 @@ My name is Oliver and I'm an applied computer tech student at United States Inte
 
 🔭- Interests:
 <ul>
-  <li>Web development</li>
-  <li>Photo Contributor (<a href="https://unsplash.com/@olivernjiru">Unsplash</a>)</li>
+  <li>Web dev</li>
+  <li>Photo Contribution (<a href="https://unsplash.com/@olivernjiru">Unsplash</a>)</li>
   <li>Building Stuff with tech</li>
  </ul>
  
