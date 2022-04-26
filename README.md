@@ -28,7 +28,7 @@ Here's some info about me:
 <!-- | Design|<img src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/> <img src="https://img.shields.io/badge/adobe%20illustrator%20-%23FF9A00.svg?&style=for-the-badge&logo=adobe%20illustrator&logoColor=white"/> <img src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/>| -->
  
  <!--   GitHub stats graph -->
-### 📈 GitHub Activity Graph:
+<!--### 📈 GitHub Activity Graph:
 ![Asmit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=olivernjiru&hide_border=true&theme=redical)
 
  # 📈 Github Stats
@@ -38,10 +38,10 @@ Here's some info about me:
 
 <!-- Wakatime Stats -->
 <!-- <a href="https://github.com/olivernjiru"> -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=olivernjiru&theme=radical&v=2" />
+  <!--<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=olivernjiru&theme=radical&v=2" />
 <!-- </a><br/><br/> -->
 
-![Oliver's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=olivernjiru&theme=radical&layout=compact)
+<!--![Oliver's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=olivernjiru&theme=radical&layout=compact)-->
 
 💬 [![Gmail Badge](https://img.shields.io/badge/-onjeru@usiu.ac.ke-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:onjeru@usiu.ac.ke)](mailto:olivernjiru@gmail.com)
    [![Linkedin Badge](https://img.shields.io/badge/-olivernjiru-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/olivernjiru/)](https://www.linkedin.com/in/olivernjiru/)
@@ -49,7 +49,9 @@ Here's some info about me:
 
 📫 Visit my Portfolio Website: https://olivernjiru.github.io
 
-<!--![visitors](https://visitor-badge.glitch.me/badge?page_id=olivernjiru)-->  [![wakatime](https://wakatime.com/badge/user/646be635-77c4-4954-8b75-1fb37118822a.svg)](https://wakatime.com/@646be635-77c4-4954-8b75-1fb37118822a)    <!--![Profile views](https://gpvc.arturio.dev/olivernjiru)   <img src="https://img.shields.io/github/forks/olivernjiru/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator forks"/>    <img src="https://img.shields.io/github/stars/olivernjiru/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator stars"/>    <img src="https://img.shields.io/github/issues/olivernjiru/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator issues"/>    <img src="https://img.shields.io/github/issues-pr/olivernjiru/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator pull-requests"/>-->
+[![wakatime](https://wakatime.com/badge/user/646be635-77c4-4954-8b75-1fb37118822a.svg)](https://wakatime.com/@646be635-77c4-4954-8b75-1fb37118822a)    <!--![Profile views](https://gpvc.arturio.dev/olivernjiru)   <img src="https://img.shields.io/github/forks/olivernjiru/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator forks"/>    <img src="https://img.shields.io/github/stars/olivernjiru/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator stars"/>    <img src="https://img.shields.io/github/issues/olivernjiru/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator issues"/>    <img src="https://img.shields.io/github/issues-pr/olivernjiru/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator pull-requests"/>-->
+
+<!--![visitors](https://visitor-badge.glitch.me/badge?page_id=olivernjiru)-->  
 
 
 
