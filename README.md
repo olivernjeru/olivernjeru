@@ -1,6 +1,6 @@
 <!-- Welcome and Intro Section --> 
 ## Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-My name is Oliver and I'm an Applied Computer Tech student at United States International University - Africa! Here's some info about me:
+Here's some info about me:
 
 <!-- Info about me -->
 -🌱 Self learning Software Engineering.
