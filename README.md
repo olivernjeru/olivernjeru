@@ -45,7 +45,7 @@ Here's some info about me:
 
 💬 [![Gmail Badge](https://img.shields.io/badge/-onjeru@usiu.ac.ke-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:onjeru@usiu.ac.ke)](mailto:olivernjiru@gmail.com)
    [![Linkedin Badge](https://img.shields.io/badge/-olivernjiru-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/olivernjiru/)](https://www.linkedin.com/in/olivernjiru/)
-   [![twitter](https://img.shields.io/twitter/follow/olivernjeru?label=followers&logo=twitter&color=%23007ec6&style=plastic)](https://twitter.com/olivernjeru)   [![github](https://img.shields.io/github/followers/olivernjiru?logo=github&style=plastic)](https://github.com/olivernjiru?tab=followers)
+   <!--[![twitter](https://img.shields.io/twitter/follow/olivernjeru?label=followers&logo=twitter&color=%23007ec6&style=plastic)](https://twitter.com/olivernjeru)   [![github](https://img.shields.io/github/followers/olivernjiru?logo=github&style=plastic)](https://github.com/olivernjiru?tab=followers)-->
 
 📫 Visit my Portfolio Website: https://olivernjiru.github.io
 
