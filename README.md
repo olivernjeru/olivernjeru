@@ -3,7 +3,7 @@
 Here's some info about me:
 
 <!-- Info about me -->
--🌱 Self learning Software Engineering.
+🌱- Self learning Software Engineering.
 
 <!-- 🔭 Current projects:
 <ul>
