@@ -14,7 +14,7 @@ Here's some info about me:
 🔭- Interests:
 <ul>
   <li>Building Stuff with tech</li>
-  <li>Photo Contribution (<a href="https://unsplash.com/@olivernjiru">Unsplash</a>)</li>
+  <li>Contributing Photos on <a href="https://unsplash.com/@olivernjiru">Unsplash</a></li>
  </ul>
  
  <!-- # 🔧 Techology and Tools
