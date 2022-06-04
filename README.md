@@ -1,5 +1,5 @@
 <!-- Welcome and Intro Section --> 
-## Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## Hi there! <!--<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">-->
 Here's some info about me:
 
 <!-- Info about me -->
