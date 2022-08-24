@@ -7,14 +7,14 @@ Here's some info about me:
 
 <!-- 🔭 Current projects:
 <ul>
-  <li><a href="https://olivernjiru.github.io">Portfolio Website</a></li>
+  <li><a href="https://olivernjeru.github.io">Portfolio Website</a></li>
   <li>E-Commerce Merch Website</li>
 </ul> -->
 
 🔭- Interests:
 <ul>
   <li>Building Stuff with tech</li>
-  <li>Contributing Photos on <a href="https://unsplash.com/@olivernjiru">Unsplash</a></li>
+  <li>Contributing Photos on <a href="https://unsplash.com/@olivernjeru">Unsplash</a></li>
    <li>Creating Designs on Figma and Canva</li>
  </ul>
  
