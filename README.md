@@ -15,7 +15,7 @@ Here's some info about me:
 <ul>
   <li>Building Stuff with tech</li>
   <li>Contributing Photos on <a href="https://unsplash.com/@olivernjeru">Unsplash</a></li>
-   <li>Creating Designs on Figma and Canva</li>
+   <li>Creating Designs on <a href="https://figma.com/@olivernjeru">Figma</a>, <a href="https://dribbble.com/@olivernjeru">Dribbble</a> and <a href="https://canva.com/@olivernjeru">Canva</a></li>
  </ul>
  
  <!-- # 🔧 Techology and Tools
