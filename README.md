@@ -45,7 +45,7 @@ Here's some info about me:
 <!--![Oliver's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=olivernjiru&theme=radical&layout=compact)-->
 
 💬 [![Gmail Badge](https://img.shields.io/badge/-onjeru@usiu.ac.ke-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:onjeru@usiu.ac.ke)](mailto:olivernjiru@gmail.com)
-   [![Linkedin Badge](https://img.shields.io/badge/-olivernjiru-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/olivernjiru/)](https://www.linkedin.com/in/olivernjiru/)
+   [![Linkedin Badge](https://img.shields.io/badge/-olivernjeru-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/olivernjeru/)](https://www.linkedin.com/in/olivernjeru/)
    <!--[![twitter](https://img.shields.io/twitter/follow/olivernjeru?label=followers&logo=twitter&color=%23007ec6&style=plastic)](https://twitter.com/olivernjeru)   [![github](https://img.shields.io/github/followers/olivernjiru?logo=github&style=plastic)](https://github.com/olivernjiru?tab=followers)-->
 
 📫 Visit my Portfolio Website: https://olivernjeru.github.io
