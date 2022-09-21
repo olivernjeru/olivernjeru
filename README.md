@@ -13,7 +13,7 @@ Here's some info about me:
 
 🔭- Interests:
 <ul>
-  <li>Building Stuff with tech</li>
+  <li>Full Stack Engineering</li>
   <li>Creating Designs on <a href="https://figma.com/@olivernjeru">Figma</a>, <a href="https://dribbble.com/olivernjeru">Dribbble</a> and Canva</li>
   <li>Contributing Photos on <a href="https://unsplash.com/@olivernjeru">Unsplash</a></li>
  </ul>
