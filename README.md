@@ -48,7 +48,7 @@ Here's some info about me:
    [![Linkedin Badge](https://img.shields.io/badge/-olivernjeru-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/olivernjeru/)](https://www.linkedin.com/in/olivernjeru/)
    <!--[![twitter](https://img.shields.io/twitter/follow/olivernjeru?label=followers&logo=twitter&color=%23007ec6&style=plastic)](https://twitter.com/olivernjeru)   [![github](https://img.shields.io/github/followers/olivernjiru?logo=github&style=plastic)](https://github.com/olivernjiru?tab=followers)-->
 
-📫 Visit my Portfolio Website: https://olivernjeru.github.io
+📫 Visit my Portfolio Website: <a href="https://olivernjeru.github.io" target=_blank>https://olivernjeru.github.io</a>
 
 <!-- [![wakatime](https://wakatime.com/badge/user/646be635-77c4-4954-8b75-1fb37118822a.svg)](https://wakatime.com/@646be635-77c4-4954-8b75-1fb37118822a)    <!--![Profile views](https://gpvc.arturio.dev/olivernjiru)   <img src="https://img.shields.io/github/forks/olivernjiru/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator forks"/>    <img src="https://img.shields.io/github/stars/olivernjiru/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator stars"/>    <img src="https://img.shields.io/github/issues/olivernjiru/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator issues"/>    <img src="https://img.shields.io/github/issues-pr/olivernjiru/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator pull-requests"/>-->
 
