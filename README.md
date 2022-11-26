@@ -14,8 +14,8 @@ Here's some info about me:
 🔭- Interests:
 <ul>
   <li>Full Stack Engineering</li>
-  <li>Creating Designs on <a href="https://figma.com/@olivernjeru" target="_blank">Figma</a>, <a href="https://dribbble.com/olivernjeru" target="_blank">Dribbble</a> and Canva</li>
-  <li>Grinding Data Structures & Algorithms on <a href="https://leetcode.com/olivernjeru/">LeetCode</a> and <a href="https://hackerrank.com/olivernjeru">Hackerrank</a></li>
+  <li>Working on User Experience(UX) and Creating Designs on <a href="https://figma.com/@olivernjeru" target="_blank">Figma</a>, <a href="https://dribbble.com/olivernjeru" target="_blank">Dribbble</a> and Canva</li>
+  <li>Practising Data Structures & Algorithms on <a href="https://leetcode.com/olivernjeru/">LeetCode</a> and <a href="https://hackerrank.com/olivernjeru">Hackerrank</a></li>
   <li>Contributing Photos on <a href="https://unsplash.com/@olivernjeru" target="_blank">Unsplash</a></li>
  </ul>
  
