@@ -3,7 +3,7 @@
 Here's some info about me:
 
 <!-- Info about me -->
-🌱- Self learning Software Engineering.
+🌱- Self learning Software Engineering, Quantitative Finance and Data Science.
 
 <!-- 🔭 Current projects:
 <ul>
@@ -13,7 +13,7 @@ Here's some info about me:
 
 🔭- Interests:
 <ul>
-  <li>Full Stack Engineering</li>
+  <li>Quantitative Trading, Data Science, Machine Learning, Software Engineering</li>
   <li>Working on User Experience(UX) and Creating Designs on <a href="https://figma.com/@olivernjeru" target="_blank">Figma</a>, <a href="https://dribbble.com/olivernjeru" target="_blank">Dribbble</a> and Canva</li>
   <li>Practising Data Structures & Algorithms
   <li>Contributing Photos on <a href="https://unsplash.com/@olivernjeru" target="_blank">Unsplash</a></li>
