@@ -3,7 +3,7 @@
 Here's some info about me:
 
 <!-- Info about me -->
-🌱- Self learning Software Engineering, Quantitative Developer, Machine Learning.
+🌱- Self learning Software Engineering, Quantitative Trading, Becoming a Quantitative Developer, Machine Learning.
 
 <!-- 🔭 Current projects:
 <ul>
