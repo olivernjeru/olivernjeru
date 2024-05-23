@@ -3,7 +3,7 @@
 Here's some info about me:
 
 <!-- Info about me -->
-🌱- Self learning Software Engineering, Quantitative Trading, Becoming a Quantitative Developer, Machine Learning.
+🌱- Self learning Software Engineering and Research.
 
 <!-- 🔭 Current projects:
 <ul>
@@ -13,30 +13,9 @@ Here's some info about me:
 
 🔭- Interests:
 <ul>
-  <li>Quantitative Trading, Quantitative Developer, Machine Learning, Software Engineering</li>
-  <li>Working on User Experience(UX) and Creating Designs on <a href="https://figma.com/@olivernjeru" target="_blank">Figma</a>, <a href="https://dribbble.com/olivernjeru" target="_blank">Dribbble</a> and Canva</li>
-  <li>Practising Data Structures & Algorithms
-  <li>Contributing Photos on <a href="https://unsplash.com/@olivernjeru" target="_blank">Unsplash</a></li>
+  <li>Research, Software Engineering, AI, Machine Learning</li>
+  <li>Practising Data Structures & Algorithms. Solving problems
  </ul>
- 
- <!-- # 🔧 Techology and Tools
-||Skills|
-|-|-|
-| Programming Languages|<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/Java%20-%23F37626.svg?&style=for-the-badge&logo=java&logoColor=white"/>|
-| Framework|<img src="https://img.shields.io/badge/vue.js%20-%2320232a.svg?&style=for-the-badge&logo=vue.js&logoColor=%2361DAFB"/> <img src="https://img.shields.io/badge/Node.js%20-%339933.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/>|
-| Database|<img src ="https://img.shields.io/badge/django-%2307405e.svg?&style=for-the-badge&logo=django&logoColor=white"/>
-| DevOps|<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>|
-| IDE|<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>|
-<!-- | Design|<img src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/> <img src="https://img.shields.io/badge/adobe%20illustrator%20-%23FF9A00.svg?&style=for-the-badge&logo=adobe%20illustrator&logoColor=white"/> <img src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/>| -->
- 
- <!--   GitHub stats graph -->
-<!--### 📈 GitHub Activity Graph:
-![Asmit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=olivernjiru&hide_border=true&theme=redical)
-
- # 📈 Github Stats
-![Oliver's GitHub stats](https://github-readme-stats.vercel.app/api?username=olivernjiru&theme=radical&show_icons=true)
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=olivernjiru"></img>
 
 <!-- Wakatime Stats -->
 <!-- <a href="https://github.com/olivernjiru"> -->
@@ -45,7 +24,7 @@ Here's some info about me:
 
 <!--![Oliver's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=olivernjiru&theme=radical&layout=compact)-->
 
-💬 [![Gmail Badge](https://img.shields.io/badge/-onjeru@usiu.ac.ke-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:onjeru@usiu.ac.ke)](mailto:olivernjiru@gmail.com)
+💬 [![Gmail Badge](https://img.shields.io/badge/-onjeru@usiu.ac.ke-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:onjeru@usiu.ac.ke)](mailto:onjeru@usiu.ac.ke)
    [![Linkedin Badge](https://img.shields.io/badge/-olivernjeru-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/olivernjeru/)](https://www.linkedin.com/in/olivernjeru/)
    <!--[![twitter](https://img.shields.io/twitter/follow/olivernjeru?label=followers&logo=twitter&color=%23007ec6&style=plastic)](https://twitter.com/olivernjeru)   [![github](https://img.shields.io/github/followers/olivernjiru?logo=github&style=plastic)](https://github.com/olivernjiru?tab=followers)-->
 
