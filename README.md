@@ -2,7 +2,7 @@
 
 🔭- My Interests are in:
 <ul>
-  <li>Research, Software Engineering, AI, Machine Learning</li>
+  <li>Research, Software Engineering, AI, Machine Learning, Optimization, Game Theory, Algorithmic Economics, Stochastic Optimization</li>
  </ul>
 
 📫 Visit my Portfolio Website: <a href="https://olivernjeru.github.io" target="_blank">https://olivernjeru.github.io</a>
