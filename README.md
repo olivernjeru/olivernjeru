@@ -2,6 +2,6 @@
 
 My Interests are in:
 
-  * 🔭 Research, AI, Optimization, Game Theory, Algorithmic Economics, Stochastic Optimization</li>
+  * 🔭 Research, AI, Stochastic Environments, Optimization, Game Theory, Algorithmic Economics</li>
 
 📫 Visit my [Portfolio Website](https://olivernjeru.github.io)
