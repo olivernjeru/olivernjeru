@@ -1,4 +1,4 @@
-# Yoh!
+# Yo!
 
 My Interests are in:
 
